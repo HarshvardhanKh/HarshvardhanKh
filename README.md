@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Khaitan</h1>
 <h3 align="center">B.Tech CSE @ MUJ | National Coding & Math Finalist 🏆 | MUJMUN 2025 Special Mention | Python, Java, C/C++ | Aspiring Software & AI Engineer | Open to Internships</h3>
 
+- 🔭 I’m currently working on **Emotional Analysis Model using Python AI/ML**
+
 - 🌱 I’m currently learning **Spring Boot and Firebase**
+
+- 👯 I’m looking to collaborate on **learning to build Machine Learning Models**
+
+- 💬 Ask me about **Switching between guitar riffs and code snippets**
+
+- ⚡ Fun fact **First-year CSE student who’s already dreaming of building an OS from scratch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
