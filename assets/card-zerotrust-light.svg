@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" role="img" aria-label="Zero Trust">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#b15f2c"/><stop offset="1" stop-color="#97501f"/></linearGradient></defs>
+<rect x=".5" y=".5" width="519" height="249" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0" y="0" width="520" height="3" rx="1.5" fill="url(#g)"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+  <text x="28" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#b15f2c">security · face-recognition</text>
+  <text x="28" y="76" font-size="26" font-weight="700" fill="#1f2328">Zero Trust</text>
+  <text x="28" y="108" font-size="14" fill="#59636e">Multi-layer authentication prototype: face recognition,</text><text x="28" y="130" font-size="14" fill="#59636e">Bluetooth proximity unlock and email OTP, plus a</text><text x="28" y="152" font-size="14" fill="#59636e">Paranoia Mode that locks the machine down.</text>
+  <text x="28" y="190" font-size="13.5" font-weight="600" fill="#1f2328">🛡️ Cyber-vigilance prototype</text>
+  <rect x="28" y="206" width="62" height="24" rx="12.0" fill="#ffffff" stroke="#d0d7de"/><text x="59.0" y="222.14" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636e">Python</text><rect x="96" y="206" width="62" height="24" rx="12.0" fill="#ffffff" stroke="#d0d7de"/><text x="127.0" y="222.14" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636e">OpenCV</text><rect x="164" y="206" width="69" height="24" rx="12.0" fill="#ffffff" stroke="#d0d7de"/><text x="198.5" y="222.14" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636e">PySide6</text>
+</g>
+<path d="M448,34 L478,46 L478,74 C478,94 462,106 448,112 C434,106 418,94 418,74 L418,46 Z" fill="none" stroke="#b15f2c" stroke-width="1.8"/><circle cx="448" cy="70" r="8" fill="none" stroke="#b15f2c" stroke-width="1.6"/><line x1="448" y1="78" x2="448" y2="90" stroke="#b15f2c" stroke-width="1.6"/><line x1="426" y1="62" x2="470" y2="62" stroke="#b15f2c" stroke-opacity=".8"><animate attributeName="y1" values="42;102;42" dur="3s" repeatCount="indefinite"/><animate attributeName="y2" values="42;102;42" dur="3s" repeatCount="indefinite"/></line>
+</svg>
