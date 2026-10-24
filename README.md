@@ -2,10 +2,12 @@
 
 <div align="center">
 
+<a href="https://harshvardhan-khaitan.vercel.app/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="Harshvardhan Khaitan · AI/ML Engineer @ Noww Club · B.Tech CSE @ Manipal University Jaipur" width="100%">
 </picture>
+</a>
 
 <br>
 
@@ -15,6 +17,7 @@
 
 <br><br>
 
+<a href="https://harshvardhan-khaitan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harshvardhan--khaitan.vercel.app-CF8047?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/harshvardhankh/"><img src="https://img.shields.io/badge/LinkedIn-harshvardhankh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:harshvardhan.khaitan1202@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-CF8047?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.noww.club/"><img src="https://img.shields.io/badge/Now-Noww%20Club-1F2328?style=for-the-badge&logo=sparkfun&logoColor=white" alt="Noww Club"></a>
