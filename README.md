@@ -166,12 +166,14 @@ class Harshvardhan(nn.Module):
   <img src="https://streak-stats.demolab.com?user=HarshvardhanKh&hide_border=true&background=F6F8FA&ring=B15F2C&fire=B15F2C&currStreakLabel=B15F2C&sideLabels=1F2328&dates=59636E&currStreakNum=1F2328&sideNums=1F2328" alt="GitHub streak" width="70%">
 </picture>
 
+<!-- Contribution snake: uncomment once the snake workflow has run once (it publishes to the `output` branch)
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshvardhanKh/HarshvardhanKh/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/HarshvardhanKh/HarshvardhanKh/output/snake.svg" alt="Contribution snake eating my commit graph" width="100%">
 </picture>
+-->
 
 </div>
 
