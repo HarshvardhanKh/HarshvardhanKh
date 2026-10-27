@@ -33,7 +33,7 @@
 class Harshvardhan(nn.Module):
     def __init__(self):
         super().__init__()
-        self.role       = "Building Nowww"              # remote, since Jan 2025
+        self.role       = "Building Noww"                           # remote, since Jan 2026
         self.education  = "B.Tech CSE @ Manipal University Jaipur"  # 2025 – 2029
         self.leads      = "Joint-Head of Technical Projects, IEEE CS MUJ"
         self.stack      = ["LLMs", "Agentic AI", "Computer Vision", "RAG", "ML Pipelines"]
@@ -110,7 +110,7 @@ class Harshvardhan(nn.Module):
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg">
-  <img src="assets/journey-light.svg" alt="Journey from Aug 2025 to Oct 2026: joined MUJ, SIH 2025 semi-finalist, Rewind and Recode top 10, AI/ML Engineer at Noww Club, ShadowIntern, Joint-Head IEEE CS MUJ, CraftNCode state winner, HACKX 4.0 top 13 of 636, VarunaX SIH internal win" width="100%">
+  <img src="assets/journey-light.svg" alt="Journey from Aug 2025 to Oct 2026: joined MUJ, SIH 2025 semi-finalist, Rewind and Recode top 10, Building Noww at Noww Club, ShadowIntern, Joint-Head IEEE CS MUJ, CraftNCode state winner, HACKX 4.0 top 13 of 636, VarunaX SIH internal win" width="100%">
 </picture>
 
 <br>
