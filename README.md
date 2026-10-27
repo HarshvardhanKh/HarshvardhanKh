@@ -5,7 +5,7 @@
 <a href="https://harshvardhan-khaitan.vercel.app/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Harshvardhan Khaitan · AI/ML Engineer @ Noww Club · B.Tech CSE @ Manipal University Jaipur" width="100%">
+  <img src="assets/banner-light.svg" alt="Harshvardhan Khaitan · Building Noww · B.Tech CSE @ Manipal University Jaipur" width="100%">
 </picture>
 </a>
 
@@ -33,7 +33,7 @@
 class Harshvardhan(nn.Module):
     def __init__(self):
         super().__init__()
-        self.role       = "AI/ML Engineer @ Noww Club"              # remote, since Dec 2025
+        self.role       = "Building Nowww"              # remote, since Jan 2025
         self.education  = "B.Tech CSE @ Manipal University Jaipur"  # 2025 – 2029
         self.leads      = "Joint-Head of Technical Projects, IEEE CS MUJ"
         self.stack      = ["LLMs", "Agentic AI", "Computer Vision", "RAG", "ML Pipelines"]
@@ -43,7 +43,7 @@ class Harshvardhan(nn.Module):
         return ship(build_from_scratch(idea))   # one day, that includes my own OS
 ```
 
-**Right now** I build the AI behind [Noww Club](https://www.noww.club/), an invite-only ritual club for intentional living. I shipped its personalization microservice: wellness profiles and daily ritual recommendations at onboarding, served through an async FastAPI API with per-IP rate limiting. I also build agentic workflows with Anthropic models on AWS Bedrock, train the models behind personalization, and own the data pipelines from preprocessing to deployment.
+**Right now** I build the AI behind [Noww Club](https://www.noww.club/), an invite-only ritual club for intentional living. Lead all technical work across the app, backend and AI: set the architecture, review code, and direct the engineering team. Built and deployed the AI personalisation engine that generates each member’s identity profile and daily ritual from their check-ins, spoken reflections and data from Apple Health, Whoop, calendars and Notion
 
 <br>
 
